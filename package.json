@@ -8,6 +8,7 @@
     "dev": "ts-node-dev --respawn --transpile-only --ignore-watch node_modules src/index.ts"
   },
   "keywords": [],
+  
   "author": "",
   "license": "ISC",
   "devDependencies": {
